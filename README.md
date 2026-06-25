@@ -104,7 +104,7 @@ An interactive dashboard was created in **Power BI** to answer the business ques
 
 For a detailed explanation of the methodology, analysis, and findings, see the executive report:
 
-📄 **[Project Report](docs/Informe_accidentes_Mexico.pdf)**
+📄 **[Project Report](docs/Informe_accidentes_México.pdf)**
 
 ![Dashboard Overview](powerbi/dashboard.jpg)
 
@@ -148,7 +148,7 @@ mexico-fatal-road-accidents-analysis
 │   └── reports
 │
 ├── docs
-│   └── Informe_accidentes_Mexico.pdf
+│   └── Informe_accidentes_México.pdf
 │
 ├── evidence
 │   ├── images
