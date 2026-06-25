@@ -144,7 +144,7 @@ fatal-road-accidents-mexico
 ├── README.md
 │
 ├── data
-│   ├── accidentes_mexico.csv
+│   ├── sample_accidentes_mexico.csv
 │   └── reports
 │
 ├── docs
