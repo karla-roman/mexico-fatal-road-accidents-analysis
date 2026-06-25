@@ -156,10 +156,8 @@ fatal-road-accidents-mexico
 │   ├── 03_data_validation.png
 │   └── ...
 │
-├── images
-│   └── dashboard_overview.png
-│
 ├── powerbi
+│   ├── dashboard_overview.png
 │   └── fatal_road_accidents.pbix
 │
 └── sql
