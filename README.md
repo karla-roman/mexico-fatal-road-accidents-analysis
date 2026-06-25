@@ -106,7 +106,7 @@ For a detailed explanation of the methodology, analysis, and findings, see the e
 
 📄 **[Project Report](docs/Informe_accidentes_Mexico.pdf)**
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](powerbi/dashboard_overview.png)
 
 ---
 
