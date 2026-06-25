@@ -106,7 +106,7 @@ For a detailed explanation of the methodology, analysis, and findings, see the e
 
 📄 **[Project Report](docs/Informe_accidentes_Mexico.pdf)**
 
-![Dashboard Overview](powerbi/dashboard_overview.png)
+![Dashboard Overview](powerbi/dashboard.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ For a detailed explanation of the methodology, analysis, and findings, see the e
 ## Repository Structure
 
 ```text
-fatal-road-accidents-mexico
+mexico-fatal-road-accidents-analysis
 │
 ├── README.md
 │
@@ -151,19 +151,12 @@ fatal-road-accidents-mexico
 │   └── Informe_accidentes_Mexico.pdf
 │
 ├── evidence
-│   ├── 01_data_extraction.png
-│   ├── 02_database_creation.png
-│   ├── 03_data_validation.png
-│   └── ...
+│   ├── images
+│   └── sql
 │
-├── powerbi
-│   ├── dashboard_overview.png
-│   └── fatal_road_accidents.pbix
-│
-└── sql
-    ├── 01_create_tables.sql
-    ├── 02_import_data.sql
-    └── ...
+└── powerbi
+    ├── dashboard.jpg
+    └── graphics
 ```
 
 ---
