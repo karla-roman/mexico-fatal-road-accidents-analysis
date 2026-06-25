@@ -154,7 +154,7 @@ fatal-road-accidents-mexico
 │   ├── 01_data_extraction.png
 │   ├── 02_database_creation.png
 │   ├── 03_data_validation.png
-│   └── 04_missing_values.png
+│   └── ...
 │
 ├── images
 │   └── dashboard_overview.png
@@ -165,8 +165,7 @@ fatal-road-accidents-mexico
 └── sql
     ├── 01_create_tables.sql
     ├── 02_import_data.sql
-    ├── ...
-    └── business_queries.sql
+    └── ...
 ```
 
 ---
