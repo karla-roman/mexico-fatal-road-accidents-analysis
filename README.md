@@ -40,7 +40,7 @@ This project answers the following business questions:
 
 ## Dataset
 
-The dataset contains official records of road traffic accidents in Mexico.
+The dataset contains official records of road traffic accidents in Mexico from 1997 to 2022.
 
 | **Attribute** | **Value** |
 |-----------|------:|
@@ -92,7 +92,7 @@ The original dataset was provided as a **SQLite database (.db)**.
 
 An analytical table was created in **SQLite** using a **CREATE TABLE AS SELECT (CTAS)** statement to combine the required variables into a single dataset. 
 
-The analytical table accidents and the states table were then exported as CSV files.
+The analytical accidents table and the states table were then exported as CSV files.
 
 A new database was created in **PostgreSQL**, where the relational model was designed and both tables were imported for the analysis.
 
@@ -102,11 +102,9 @@ A new database was created in **PostgreSQL**, where the relational model was des
 
 An interactive dashboard was created in **Power BI** to answer the business questions defined for this project.
 
-For a detailed explanation of the methodology, analysis, and findings, see the executive report:
+For more details about the methodology, analysis, and findings see 📄 **[Project Report](docs/Informe_accidentes_México.pdf)**.
 
-📄 **[Project Report](docs/Informe_accidentes_México.pdf)**
-
-![Dashboard Overview](powerbi/dashboard.jpg)
+![Dashboard Overview](powerbi/dashboard_overview.jpg)
 
 ---
 
